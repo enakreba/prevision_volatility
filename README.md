@@ -43,6 +43,7 @@ Tu entres dans le quant ML :
 XGBoost ou Random Forest pour prédire la volatilité de la prochaine heure/jour.
 Tu compares avec les modèles traditionnels (GARCH, EWMA).
 Analyse des résidus, overfitting, cross-validation dans le temps.
+
 5. 📊 Backtest simple
 Tu fais un stratégie naïve basée sur ta prévision :
 
